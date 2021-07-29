@@ -1,0 +1,8 @@
+header {
+    background-color: #264653;
+}
+
+.img-grayscale img {
+    filter: grayscale(100%);
+}
+}
