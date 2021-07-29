@@ -1,8 +1,14 @@
-header {
+header,
+.bonus-section-2 {
     background-color: #264653;
 }
 
 .img-grayscale img {
     filter: grayscale(100%);
+}
+
+button a {
+    text-decoration: none;
+    color: white;
 }
 }
